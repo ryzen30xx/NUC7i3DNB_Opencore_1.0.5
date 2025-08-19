@@ -43,8 +43,9 @@ This EFI configuration is compatible with the following hardware:
 - **Model**: NUC7i3DNB
 - **Processor**: Intel Core i3-7100U
 - **Graphics**: Intel HD Graphics 620
-- **RAM**: 8GB DDR4
+- **RAM**: 16GB DDR4
 - **Storage**: M.2 SSD
+- **Wifi Card**: BCM94360CS2
 
 ## Compatibility Table
 
