@@ -44,8 +44,9 @@ This EFI configuration is compatible with the following hardware:
 - **Processor**: Intel Core i3-7100U
 - **Graphics**: Intel HD Graphics 620
 - **RAM**: 16GB DDR4
-- **Storage**: M.2 SSD
-- **Wifi Card**: BCM94360CS2
+- **Storage**: Orico D-10 NVMe SSD
+
+![Screenshot](Screenshot.png)
 
 ## Compatibility Table
 
